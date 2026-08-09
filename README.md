@@ -1,6 +1,6 @@
 # VLF Whistler Catcher 
 
-## [Check out the documentation pages here.](https://hamsci.github.io/VLF_WC)
+## [Check out the documentation pages here.](https://hamsci.github.io/VLF-WC)
 
 - [X] Create a new repository using this template.
 - [ ] Update docs/_config.yml with information about the specific hardware you're documenting.
